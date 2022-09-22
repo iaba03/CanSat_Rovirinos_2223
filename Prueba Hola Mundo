@@ -1,5 +1,5 @@
 /*
-  Probando a esitar el codigo
+  Probando a esitar el codigo (holi)
 */
 // Solo se ejecuta una vez y se utiliza para inicializar las variables que después serán utilizadas.
 void setup() {

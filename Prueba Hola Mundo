@@ -1,7 +1,5 @@
 /*
-  Hola Mundo
-  Muestra un mensaje Hola mundo.
-  Enciende un led durante un segundo, entonces lo apaga durante un segundo en un bucle infinito.
+  Probando a esitar el codigo
 */
 // Solo se ejecuta una vez y se utiliza para inicializar las variables que después serán utilizadas.
 void setup() {
